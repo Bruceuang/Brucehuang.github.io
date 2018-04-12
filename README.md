@@ -1,3 +1,3 @@
 # my-first-pyspider
-a python spider
+a spider of qiushibaike by python
 
